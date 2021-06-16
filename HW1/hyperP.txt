@@ -1,0 +1,10 @@
+Testing performance on differing Ks : 
+Neighbors have been set to :  1
+Performance percentage (Training Accuracy): 0.986875
+Validation Accuracy rating : 0.7940416666666666
+Varriance : 0.0013230254629629638
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  3
+Performance percentage (Training Accuracy): 0.89025
+Validation Accuracy rating : 

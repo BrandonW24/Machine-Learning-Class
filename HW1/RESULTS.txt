@@ -1,0 +1,55 @@
+Testing performance on differing Ks : 
+Neighbors have been set to :  1
+Performance percentage (Training Accuracy): 0.986875
+Validation Accuracy rating : 0.7940416666666666
+Varriance : 0.0013230254629629638
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  3
+Performance percentage (Training Accuracy): 0.89025
+Validation Accuracy rating : 0.805375
+Varriance : 0.0001933958333333335
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  5
+Performance percentage (Training Accuracy): 0.869375
+Validation Accuracy rating : 0.8103333333333333
+Varriance : 6.335185185185138e-05
+        = 0.00006335185185185138
+
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  7
+Performance percentage (Training Accuracy): 0.863625
+Validation Accuracy rating : 0.812125
+Varriance : 4.7062499999999375e-05
+          = 0.000047062499999999375
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  9
+Performance percentage (Training Accuracy): 0.85575
+Validation Accuracy rating : 0.8145833333333334
+Varriance : 3.4916666666666156e-05
+          = 0.000034916666666666156
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  99
+Performance percentage (Training Accuracy): 0.832875
+Validation Accuracy rating : 0.822125
+Varriance : 3.587962962962851e-07
+          = 0.0000003587962962962851
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  999
+Performance percentage (Training Accuracy): 0.82525
+Validation Accuracy rating : 0.754125
+Varriance : 4.581018518518487e-06
+          = 0.000004581018518518487
+____________________________________________________
+Testing performance on differing Ks : 
+Neighbors have been set to :  8000
+Performance percentage (Training Accuracy): 0.754125
+Validation Accuracy rating : 0.754125
+Varriance : 4.581018518518487e-06
+          = 0.000004581018518518487
+____________________________________________________
