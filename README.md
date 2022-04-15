@@ -58,7 +58,7 @@ better and then get some hand-on experience with simple Neural Networks in a mul
 | Part 6        | Completed     | May 14, 2021 |
 | Assignment    | Completed     | May 20, 2021 |
 
-## Assignment 4 : k-Nearest Neighbor Classification and Statistical Estimation
+## Assignment 4 : Decision Trees and k-Means Clustering
 
 In this assignment, I am going to move through some exercises to understand Decision Trees a bit
 better and then get some hand-on experience with k-means clustering.
